@@ -133,10 +133,12 @@ body {
 .profile__bio h1 {
   font-size: 1.5rem;
   font-weight: var(--fw-bold);
+  opacity: 85%;
 }
 
 .profile__bio span {
   font-weight: var(--fw-light);
+  opacity: 75%;
 }
 
 .profile__bio p {
